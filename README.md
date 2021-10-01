@@ -15,6 +15,9 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 * This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently. The before and after account images are listed in the testing contract section 
 ## Testing AssociateProfitSplitter contract
 ![associate-profit-splitter-01](https://github.com/RichardPatriquin/Smart_Contracts_Solidity/blob/main/Images/testingBallanceBefore.png)
+## Set Value to Deposit
+![tiered-transfer](https://github.com/RichardPatriquin/Smart_Contracts_Solidity/blob/main/Images/DeployRun.png)
+## Balance After 
 ![associate-Profit-Splitter-02](https://github.com/RichardPatriquin/Smart_Contracts_Solidity/blob/main/Images/testingBallanceAfter.png)
 
 
